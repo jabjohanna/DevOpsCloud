@@ -26,9 +26,13 @@ ________________________________________________________________________________
 
   Ingresar a https://www.visualstudio.com/. Se puede crear una cuenta personal o crear un proyecto nuevo con la cuenta corporativa.
 
-![GitHub Logo](/img001.PNG)
+![GitHub Logo](/img/img001.PNG)
 
 
 Seleccionar la opción Crear Cuenta Nueva 
 
 ![GitHub Logo](/img/img002.png)
+
+Crear repositorio por defecto 
+
+![GitHub Logo](/img/img003.png)
