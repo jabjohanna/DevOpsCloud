@@ -28,3 +28,7 @@ ________________________________________________________________________________
 
 ![GitHub Logo](/img001.PNG)
 
+
+Seleccionar la opción Crear Cuenta Nueva 
+
+![GitHub Logo](/img/img002.png)
