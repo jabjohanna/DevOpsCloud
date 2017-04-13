@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
   Ingresar a https://www.visualstudio.com/
   
-  (https://github.com/jabjohanna/DevOpsCloud/blob/master/img001.PNG)
+
 
 
 
