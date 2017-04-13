@@ -23,8 +23,6 @@ ________________________________________________________________________________
 ### Paso 1. Crear cuenta VSTS
 
   Ingresar a https://www.visualstudio.com/
-  
 
-
-
+![GitHub Logo](/img001.PNG)
 
