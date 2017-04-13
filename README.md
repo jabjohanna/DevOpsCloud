@@ -39,3 +39,5 @@ Crear repositorio por defecto
 
 Una vez se selecciona la opción continuar se crea la cuenta del proyecto con el reopsitorio por defecto.
 
+![GitHub Logo](/img/img004.png)
+
