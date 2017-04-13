@@ -36,3 +36,6 @@ Seleccionar la opción Crear Cuenta Nueva
 Crear repositorio por defecto 
 
 ![GitHub Logo](/img/img003.png)
+
+Una vez se selecciona la opción continuar se crea la cuenta del proyecto con el reopsitorio por defecto.
+
