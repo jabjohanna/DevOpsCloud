@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________
 
-1. Crear cuenta VSTS
+### Paso 1. Crear cuenta VSTS
 
   Ingresar a https://www.visualstudio.com/
   
- ![Botón de seguir] (https://github.com/jabjohanna/DevOpsCloud/blob/master/img001.PNG)
+  (https://github.com/jabjohanna/DevOpsCloud/blob/master/img001.PNG)
 
 
 
