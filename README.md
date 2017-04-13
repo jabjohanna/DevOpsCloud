@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## Tabla de Contenido
 
-- [Crear cuenta VSTS](#Paso-1.-Crear-cuenta-VSTS).
+- [Crear cuenta VSTS](#1-Crear-cuenta-VSTS).
 - Creación Proyecto Visual Studio Team Services 
 - Creación repositorio VSTS
 - Publicación Web App (Azure)
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________
 
-### Paso 1. Crear cuenta VSTS
+### 1 Crear cuenta VSTS
 
   Ingresar a https://www.visualstudio.com/
 
