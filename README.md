@@ -87,6 +87,15 @@ Verificar el código en VSTS
 
 ### Configurar Integración y Despliegue Continuo Web App ###
 
+##Crear Build 
+
+1. Seleccionar un template de VSO Básico 
+
+![GitHub Logo](/img/img015.PNG)
+
+
+
+
 
 
 
