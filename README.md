@@ -93,8 +93,7 @@ Verificar el código en VSTS
 
 ![GitHub Logo](/img/img015.PNG)
 
-
-
+![GitHub Logo](/img/img0151.PNG)
 
 
 
