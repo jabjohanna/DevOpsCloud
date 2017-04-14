@@ -80,6 +80,15 @@ Para subir los cambios se obtiene el origen del repositorio en VSO, seleccionand
 <pre><code>git commit -m 'Johanna Init'</code></pre>
 <pre><code>git push -u origin master</code></pre>
 
+Verificar el código en VSTS 
+
+![GitHub Logo](/img/img014.PNG)
+
+
+### Configurar Integración y Despliegue Continuo Web App ###
+
+
+
 
 
 
