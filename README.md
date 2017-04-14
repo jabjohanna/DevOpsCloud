@@ -67,3 +67,11 @@ Visual Studio Team Services ofrece repositoriosde forma ilimitada. Para crearlos
 
 ![GitHub Logo](/img/img012.PNG)
 
+### Configurar CI y Release con Web App Azure ###
+
+- Subir cambios de aplicación
+
+Para subir los cambios se obtiene el origen del repositorio en VSO, seleccionando la opción clone en la configuración del repo.
+
+![GitHub Logo](/img/img013.PNG)
+
