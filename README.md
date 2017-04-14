@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________
 
-### 1 Crear cuenta VSTS
+### 1 Crear cuenta VSTS ###
 
   Ingresar a https://www.visualstudio.com/. Se puede crear una cuenta personal o crear un proyecto nuevo con la cuenta corporativa.
 
