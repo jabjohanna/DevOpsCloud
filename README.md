@@ -95,6 +95,13 @@ Verificar el código en VSTS
 
 ![GitHub Logo](/img/img0151.PNG)
 
+- Seleccionar en la pestaña de Triguers la opción Continuous Integration, para realizar el build cada vez que se haga push en el repositorio.
+- En la pestaña de opciones seleccionar Default agent queue --> Hosted.
+- Adicionar la línea siguiente línea en Msbuild Arguments para que el distribuible quede almaecnado en la carpeta work del sitio.
+
+<pre><code>/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.stagingDirectory)"</code></pre>
+
+
 
 
 
