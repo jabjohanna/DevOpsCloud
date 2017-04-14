@@ -57,6 +57,8 @@ Configurar las credenciales de la cuenta de Azure. Crear grupo de recursos y ser
 
 ![GitHub Logo](/img/img008.PNG)
 
+Desplegar y probar el Web App localmente
 
+![GitHub Logo](/img/img011.PNG)
 
-
+## Crear Repositorio Visual Studio Team Services ##
