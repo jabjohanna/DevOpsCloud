@@ -75,7 +75,9 @@ Para subir los cambios se obtiene el origen del repositorio en VSO, seleccionand
 
 ![GitHub Logo](/img/img013.PNG)
 
-```git remote add origin https://devopsjohannab.visualstudio.com/MyFirstProject/_git/AppJohannaPersonal ```
+<pre><code>`git remote add origin https://devopsjohannab.visualstudio.com/MyFirstProject/_git/AppJohannaPersonal`</code></pre>
+
+``` ```
 ```git add . ```
 ```git commit -m 'Johanna Init'```
 ```git push -u origin master```
