@@ -101,6 +101,12 @@ Verificar el código en VSTS
 
 <pre><code>/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.stagingDirectory)"</code></pre>
 
+Una vez se realice el build (Para realizarlo manual seleccionar la opción queue). Se ejecutan los pasos programados en el build. 
+
+- Restaurar los Nugguet 
+- Compilar la solución 
+- Ejecutar Test Unitarios
+- Publicar distribuibles 
 
 
 
