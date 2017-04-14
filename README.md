@@ -62,3 +62,8 @@ Desplegar y probar el Web App localmente
 ![GitHub Logo](/img/img011.PNG)
 
 ## Crear Repositorio Visual Studio Team Services ##
+
+Visual Studio Team Services ofrece repositoriosde forma ilimitada. Para crearlos se selecciona la opción Code -> Repositories --> New Repository
+
+![GitHub Logo](/img/img012.PNG)
+
