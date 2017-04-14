@@ -47,7 +47,11 @@ Crear Aplicación
 
 - Seleccionar nuevo proyecto Web Application
 
+![GitHub Logo](/img/img007.png)
 
+Al seleccionar la opción Host in the Cloud, el despliegue se realiza automáticamente en azure, con application Insights 
+
+![GitHub Logo](/img/img008.png)
 
 
 
