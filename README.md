@@ -131,7 +131,11 @@ Para esta sección se requiere configurar un endpoint de conexión con azure.
 (Si no se tiene en la lista la suscripción, seleccionar la opción de service principal y configurarla en el directrio activo de azure).
 
 
+![GitHub Logo](/img/img022.PNG)
 
+![GitHub Logo](/img/img023.PNG)
+
+![GitHub Logo](/img/img024.PNG)
 
 
 
