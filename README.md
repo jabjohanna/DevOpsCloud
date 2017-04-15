@@ -101,6 +101,8 @@ Verificar el código en VSTS
 
 <pre><code>/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.stagingDirectory)"</code></pre>
 
+![GitHub Logo](/img/img018.PNG)
+
 Una vez se realice el build (Para realizarlo manual seleccionar la opción queue). Se ejecutan los pasos programados en el build. 
 
 - Restaurar los Nugguet 
@@ -109,6 +111,17 @@ Una vez se realice el build (Para realizarlo manual seleccionar la opción queue
 - Publicar distribuibles 
 
 ![GitHub Logo](/img/img016.PNG)
+
+### Configurarión de Release ###
+
+Seleccionar opción Release --> New Definition --> Azure Service Deployment
+
+![GitHub Logo](/img/img019.PNG)
+
+![GitHub Logo](/img/img020.PNG)
+
+
+
 
 
 
