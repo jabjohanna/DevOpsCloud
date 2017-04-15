@@ -108,7 +108,7 @@ Una vez se realice el build (Para realizarlo manual seleccionar la opción queue
 - Ejecutar Test Unitarios
 - Publicar distribuibles 
 
-
+![GitHub Logo](/img/img016.PNG)
 
 
 
