@@ -125,6 +125,11 @@ Crear la definición de release.
 Para esta sección se requiere configurar un endpoint de conexión con azure.
 
 1. Seleccionar Manage en Azure Suscripcion en el release 
+2. Seeccionar New Service Endpoint 
+3. Digitar los datos de nombre de conexión y suscripción 
+
+(Si no se tiene en la lista la suscripción, seleccionar la opción de service principal y configurarla en el directrio activo de azure).
+
 
 
 
