@@ -120,6 +120,15 @@ Seleccionar opción Release --> New Definition --> Azure Service Deployment
 
 ![GitHub Logo](/img/img020.PNG)
 
+Crear la definición de release. 
+
+Para esta sección se requiere configurar un endpoint de conexión con azure.
+
+1. Seleccionar Manage en Azure Suscripcion en el release 
+
+
+
+
 
 
 
