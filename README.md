@@ -147,8 +147,7 @@ Seleccionar la configuración del Endpoint, el web app y crear el despliegue de 
 
 ![GitHub Logo](/img/img025.PNG)
 
-
-
+![GitHub Logo](/img/img026.PNG)
 
 
 
