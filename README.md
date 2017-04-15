@@ -143,6 +143,9 @@ ________________________________________________________________________________
 ![GitHub Logo](/img/img024.PNG)
 
 
+Seleccionar la configuración del Endpoint, el web app y crear el despliegue de release.
+
+![GitHub Logo](/img/img025.PNG)
 
 
 
